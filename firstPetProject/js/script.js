@@ -1,1 +1,1 @@
-const g = document.querySelector('.fdafds');
+'use strict'
